@@ -35,7 +35,7 @@ label variable participantcode "Participant code"
 label variable sessioncode "Session code"
 label variable completed "Complete observation"
 label variable id_group "Group index"
-label variable id_in_group "In in group"
+label variable id_in_group "ID in group"
 label variable treatment "Treatment"
 label variable treatment_real "Treatment real"
 label variable treatment_punish "Treatment punishment"
@@ -73,7 +73,7 @@ label variable instruction "Instruction difficulty"
 label variable econ_exp "Past economic experiments"
 
 ** Label Values **
-label define treatments 1 "Hypo-NoPunish" 2 "Real-NoPunish" 3 "Hypo-Punish" 4 "Real-Punish" 
+label define treatments 1 "Hypo-PGG" 2 "Real-PGG" 3 "Hypo-PGG-Punish" 4 "Real-PGG-Punish" 
 label values treatment treatments
 label define treatments_real 1 "Real" 0 "Hypothetical"
 label values treatment_real treatments_real
