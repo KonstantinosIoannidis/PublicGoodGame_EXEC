@@ -1,6 +1,6 @@
 ## Description
 
-This repository includes the data and the Stata code used in Drouvelis M., Ioannidis K., & Kallbekken S. (2024). [Monetary vs. hypothetical incentives: The case of public good games without and with punishment](). **,
+This repository includes the data and the Stata code used in Drouvelis M., Ioannidis K., & Kallbekken S. (2024). [Monetary vs. hypothetical incentives: The case of public good games without and with punishment]().
 
 ### Abstract
 
