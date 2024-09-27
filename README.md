@@ -4,7 +4,7 @@ This repository includes the data and the Stata code used in Drouvelis M., Ioann
 
 ### Abstract
 
-When faced with a social dilemma, people care about their own payoffs as well as how much others are earning (social preferences) and how their contributions make them look (image concerns). To disentangle those motivations, we run a public good game experiment varying whether the game is incentivised or hypothetical, allowing us to isolate the role of image concerns. Additionally, we vary whether participants can punish others. Compared to hypothetical elicitation without punishment, we find that contributions increase either with real incentives or with explicit non-costly punishment. Within incentivised treatments however, costly punishment does not increase contributions further.
+Whether incentives matter for experimental research is one of the main methodological differences between economics and psychology. We study the effect of incentives on eliciting social preferences. To do so, we run two public good game experiments, one standard and one with punishment, varying whether the game is incentivised or hypothetical. We find that incentives affect behaviour in a standard public good game, but not in a public good game with punishment.
 
 ### Software
 
